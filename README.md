@@ -26,7 +26,7 @@ Projeto Integrador do segundo semestre na Fatec Araras.
 
 # <h2> Projeto: </h2>
 
-- A MaisEduca vai ser uma plataforma de integração entre Alunos, Professores e Empresas, visando instituições de Ensino Médio e ETIM.
+- A MaisEnsina vai ser uma plataforma de integração entre Alunos, Professores e Empresas, visando instituições de Ensino Médio e ETIM.
 
 - Uma página com materiais de apoio postado por professores, conteúdos de aula, conteúdos extras, PDFs, Bibliografias, quaisquer materiais que o professor achar pertinente que os alunos de sua turma, ou da instituição de forma geral, vejam.
 
@@ -40,7 +40,6 @@ As empresas postariam ofertas de estágios, ou bolsas de estudos / cursos, os al
 
 # <h2> Veja as funcionalidades do sistema em nossa Documentação: </h2>
 
-[Documentação PI.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9930046/Documentacao.PI)
 
 [Documentação_PI_2.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9955960/Documentacao_PI_2.docx)
 
