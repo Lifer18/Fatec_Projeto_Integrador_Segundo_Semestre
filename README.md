@@ -5,7 +5,7 @@ Projeto Integrador do segundo semestre na Fatec Araras.
 
 # <h2> Membros: </h2>
 
-<a href="https://github.com/Lifer18">Fernando Maldonado Fernandes</a><br/>
+<a href="https://github.com/Lifer18">Fernando</a><br/>
  <img width="200" src="https://user-images.githubusercontent.com/102560328/199749294-45341d76-daec-4a67-a308-cb120a782346.jpg"> 
  
 <a href="https://github.com/CarolineVantim">Carol</a><br/>
