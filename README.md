@@ -78,20 +78,29 @@ Projeto Integrador do segundo semestre na Fatec Araras.
   </tr>
   </table>
 
-# <h2> Projeto: </h2>
+## 💻 Projeto
 
-- A MaisEnsina vai ser uma plataforma de integração entre Alunos, Professores e Empresas, visando instituições de Ensino Médio e ETIM.
+O MaisEnsina é uma plataforma de integração entre Alunos, Professores e Empresas, visando instituições de Ensino Médio e ETIM.
 
-- Uma página com materiais de apoio postado por professores, conteúdos de aula, conteúdos extras, PDFs, Bibliografias, quaisquer materiais que o professor achar pertinente que os alunos de sua turma, ou da instituição de forma geral, vejam.
+## Estrutura
 
-- Uma página com tarefas, cursos e afins. Nesta página, alunos poderiam fazer as designadas tarefas ou cursos, de uma forma “extracurricular”, onde após a conclusão, ele iria ter um certificado em seu perfil para as empresas verem.
-Esta página poderia ter postagens feitas pelos professores vigentes da instituição de ensino, professores contratados para isso ou postagens da própria plataforma para todas as instituições participantes.
+- Página com materiais de apoio postado por professores, conteúdos de aula, conteúdos extras, PDFs, Bibliografias, quaisquer materiais que o professor achar pertinente que os alunos de sua turma, ou da instituição de forma geral, vejam.
 
-- Uma página com bolsas e estágios oferecidos pelas empresas cadastradas.
+- Página com tarefas e cursos. Nesta seção, alunos poderão fazer as designadas tarefas ou cursos, de uma forma “extracurricular”, onde, após a conclusão, ele terá acesso a um certificado em seu perfil publico para as empresas visualizarem.
+A postagens serão feitas pelos professores vigentes da instituição de ensino, professores contratados para o nicho ou postagens da própria plataforma para todas as instituições participantes.
 
-As empresas postariam ofertas de estágios, ou bolsas de estudos / cursos, os alunos então poderiam se inscrever caso seu perfil seja compatível. A empresa então veria diretamente os aplicantes a sua postagem, podendo ver o perfil do aluno, seus certificados, e entrar em contato diretamente com o mesmo ou sua instituição de ensino.
+- Página com bolsas e estágios oferecidos pelas empresas cadastradas.
+As empresas postariam ofertas de estágios, ou bolsas de estudos/cursos, os alunos então poderiam se inscrever caso seu perfil seja compatível. A empresa então veria diretamente os aplicantes a sua postagem, podendo ver o perfil do aluno, seus certificados, e entrar em contato diretamente com o mesmo ou sua instituição de ensino.
                                                                                                                                                       
 <br/>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- PHP
+- Git e Github
                                                                                                                                                       
 ## 🔖 Layout
 
