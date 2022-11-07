@@ -42,4 +42,5 @@ As empresas postariam ofertas de estágios, ou bolsas de estudos / cursos, os al
 
 [Documentação PI.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9930046/Documentacao.PI)
 
+[Documentação_PI_2.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9955960/Documentacao_PI_2.docx)
 
