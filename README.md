@@ -101,7 +101,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 # <h2> Veja as funcionalidades do sistema em nossa Documentação: </h2>
 
 
-[Documentação_PI_2.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9955960/Documentacao_PI_2.docx)
+[Documentação](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9955960/Documentacao_PI_2.docx)
                                                                                                                                                       
                                                                                                                                                       
 
