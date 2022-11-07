@@ -77,7 +77,6 @@ Projeto Integrador do segundo semestre na Fatec Araras.
     </td>
   </tr>
   </table>
-  <br>
 
 # <h2> Projeto: </h2>
 
