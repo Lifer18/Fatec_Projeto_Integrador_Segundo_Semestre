@@ -43,3 +43,8 @@ As empresas postariam ofertas de estágios, ou bolsas de estudos / cursos, os al
 
 [Documentação_PI_2.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9955960/Documentacao_PI_2.docx)
 
+#<h2> Tecnologias </h2>
+
+-PHP;
+-MySQL (Banco de Dados);
+
