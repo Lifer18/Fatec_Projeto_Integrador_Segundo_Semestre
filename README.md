@@ -75,6 +75,8 @@ Projeto Integrador do segundo semestre na Fatec Araras.
         </sub>
        </a>
        <br />
+        <a href="https://www.linkedin.com/in/harthur-benetti-290515256/" title="Linkedin">@harthurbenetti</a>                                                           
+       <br />                                                                                                                                              
     </td>
   </tr>
   </table>
