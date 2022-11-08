@@ -1,4 +1,4 @@
-# Projeto Integrador 2º Semestre
+ # Projeto Integrador 2º Semestre
 Projeto Integrador do segundo semestre na Fatec Araras. 
 
 # Tema: Educação de Qualidade
@@ -64,10 +64,11 @@ Projeto Integrador do segundo semestre na Fatec Araras.
         </sub>
        </a>
        <br />
+        <a href="https://www.linkedin.com/in/luca-beteghella-b78541256/?" title="Linkedin">@lucabeteghella</a>                                                                <br />
     </td>
     <td align="center">
       <a href="https://github.com/HarthurComH">
-        <img src="https://user-images.githubusercontent.com/102560328/199749559-d8143d99-6e7d-4543-b4f6-50ab07843b24.png" width="100px;" alt="Harthur"/>
+        <img src="https://user-images.githubusercontent.com/102560328/200691413-30172efb-0b05-49e7-af87-ac8d9f9473ad.jpg" width="100px;" alt="Harthur"/>
         <br />
         <sub>
           <b>Harthur com H</b>
@@ -77,6 +78,7 @@ Projeto Integrador do segundo semestre na Fatec Araras.
     </td>
   </tr>
   </table>
+
 
 ## 💻 Projeto
 
