@@ -105,7 +105,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - PHP
 - Git e Github
-                                                                                                                                                      
+- Banco de Dados(MySQL)
+- JavaScript
+                                                                                                                                                   
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EbuJS5LlE267omtjzCI1xQ/Telas-P.I?node-id=7%3A6150). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.                                                                                                                             
