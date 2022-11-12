@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="/resources/fontawesome/css/all.css">
     <link href="/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
     <link rel="stylesheet" href="/resources/trix/trix.css">
-    <!-- <link rel="stylesheet" href="/resources/pnotify/pnotify.custom.min.css"> -->
     <link rel="stylesheet" href="/css/style.css">
   </head>
 
@@ -25,8 +24,6 @@
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <!-- <script src="/resources/trix/trix.js"></script> -->
-    <!-- <script src="/resources/pnotify/pnotify.custom.min.js"></script> -->
     <script>
         <?php flash(); ?>
     </script>
