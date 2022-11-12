@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Painel administrativo</title>
     <link rel="stylesheet" href="/resources/fontawesome/css/all.css">
-    <link href="/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <link href="/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
     <link rel="stylesheet" href="/resources/trix/trix.css">
     <!-- <link rel="stylesheet" href="/resources/pnotify/pnotify.custom.min.css"> -->
     <link rel="stylesheet" href="/css/style.css">
