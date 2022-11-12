@@ -8,7 +8,7 @@ Para que você consiga abrir o projeto recomendo as seguintes configurações:
 
 <br>
 <br>
-# Como levantar a aplicação?
+Como levantar a aplicação?
 <br>
 Para conseguir levantar o ambiente, siga o seguinte passo a passo:
 <br>
