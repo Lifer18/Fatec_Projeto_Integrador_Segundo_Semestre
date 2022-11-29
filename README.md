@@ -71,13 +71,25 @@ Projeto Integrador do segundo semestre na Fatec Araras.
         <img src="https://user-images.githubusercontent.com/102560328/200691413-30172efb-0b05-49e7-af87-ac8d9f9473ad.jpg" width="100px;" alt="Harthur"/>
         <br />
         <sub>
-          <b>Harthur com H</b>
+          <b>Harthur Benetti</b>
         </sub>
        </a>
        <br />
         <a href="https://www.linkedin.com/in/harthur-benetti-290515256/" title="Linkedin">@harthurbenetti</a>                                                           
        <br />                                                                                                                                              
-    </td>
+    </td>  
+    <td align="center">
+      <a href="https://github.com/StefanyMartins19">
+        <img src="https://user-images.githubusercontent.com/102560328/204670101-8a0a8c4e-4da0-4f5e-91ac-8dce35bd60f3.jpg" width="100px;" alt="Stefanny"/>      
+        <br />
+        <sub>
+          <b>Stefany Martins</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://www.linkedin.com/in/stefany-martins-1871891a4" title="Linkedin">@stefanyartins</a> 
+       <br />
+    </td> 
   </tr>
   </table>
 
