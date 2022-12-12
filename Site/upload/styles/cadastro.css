@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    max-height: 100vh;
+    background-image: url(../assets/fundo-cadastro.svg);
+    background-size: cover;
+    background-color: #121212;
+    text-align: center;
+    color: #E7E7E7;
+  }
+  
+  .bloco1 {
+    width: 500px;
+    background: rgba(29, 29, 29, 0.4);
+    border: 1px solid #2A2A2A;
+    border-radius: 8px;
+    padding: 30px;
+  }
+  
+  .container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+    text-align: center;
+  }
+  
+  .logo {
+    width: 150px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  
+  .cadastro h1{
+    color: white;
+    font-size: 25px;
+  }
+  
+  .cadastro p {
+    color: #AFAFAF;
+    font-size: 15px;
+  }
+  
+  .texto {
+    text-align: start;
+    color: #E7E7E7;
+  }
+  
+  .texto label {
+    margin-left: 10px;
+  }
+  
+  .paragraphs a {
+    color: #afafaf;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  
+  .formulario input {
+    background-color: #202020;
+    color: #888888;
+    border: none;
+    padding: 10px;
+  }
+  
+  .formulario input:focus {
+    background-color: #202020;
+    background-image: none;
+    color: white;
+  }
+  
+  form .btn {
+    background-color: #2A2A2A;
+    color: gray;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  form .btn:hover {
+    background-color: #004695;
+    color: white;
+  }
+  
+  .bloco2 {
+    margin-top: 30%;
+    color: white;
+    width: 25%;
+    text-align: start;
+  }
+  
+  .bloco2 h1 {
+    font-weight: bold;
+  }
+  
+  
+  .transformar:hover {
+    transform: scale(1.1);
+  }
+  
+  @media(max-width:990px){
+   .container {
+      -webkit-flex-direction: column-reverse;
+      flex-direction: column-reverse;
+      align-items: center;
+   }
+  
+   .bloco2 {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+   }
+  
+  }
+  
+  @media(max-width:510px){
+    .bloco1 {
+      width: 90%;
+    }
+  }
+  
+  
