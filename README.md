@@ -119,6 +119,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Banco de Dados(MySQL)
 - JavaScript
+- Jira 
                                                                                                                                                    
 ## 🔖 Layout
 
